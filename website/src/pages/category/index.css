@@ -1,0 +1,14 @@
+.main {
+  max-width: 1440px;
+  margin: auto;
+  padding: 24px 48px;
+  background: transparent;
+}
+
+.price {
+  color: #34A853;
+}
+
+.ant-list-item {
+  padding: 16px 0 0 0;
+}

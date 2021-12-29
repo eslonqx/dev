@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "tag": "phu-kien-a",
+    "name": "Phụ kiện A",
+    "price": 100000,
+    "oldPrice": 110000,
+    "number": 0,
+    "image": "https://loremflickr.com/320/240/floor-1",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam corrupti, pariatur veniam placeat impedit iure eaque praesentium est? In odio ut ducimus reprehenderit earum iusto cumque possimus quidem nemo ipsam, voluptatibus facere perferendis nulla exercitationem, blanditiis deleniti ipsa, quasi dolorum rem ad delectus! Nostrum eligendi reiciendis voluptas repudiandae voluptate temporibus, sint ducimus cumque distinctio iusto vel autem sit id. Laborum expedita similique quidem recusandae itaque rerum ullam nostrum eaque minus, cum, velit repellat odio minima? Dolores architecto ullam accusantium corrupti, quisquam maxime praesentium blanditiis nobis officia nam ut nemo ad dignissimos et expedita magni repellendus, cupiditate aut dolorum possimus excepturi.",
+    "route": "/products/phu-kien-a",
+    "category": "phu-kien"
+  },
+  {
+    "id": 2,
+    "tag": "phu-kien-b",
+    "name": "Phụ kiện B",
+    "price": 200000,
+    "oldPrice": 220000,
+    "number": 60,
+    "image": "https://loremflickr.com/320/240/floor-2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam corrupti, pariatur veniam placeat impedit iure eaque praesentium est? In odio ut ducimus reprehenderit earum iusto cumque possimus quidem nemo ipsam, voluptatibus facere perferendis nulla exercitationem, blanditiis deleniti ipsa, quasi dolorum rem ad delectus! Nostrum eligendi reiciendis voluptas repudiandae voluptate temporibus, sint ducimus cumque distinctio iusto vel autem sit id. Laborum expedita similique quidem recusandae itaque rerum ullam nostrum eaque minus, cum, velit repellat odio minima? Dolores architecto ullam accusantium corrupti, quisquam maxime praesentium blanditiis nobis officia nam ut nemo ad dignissimos et expedita magni repellendus, cupiditate aut dolorum possimus excepturi.",
+    "route": "/products/phu-kien-b",
+    "category": "phu-kien"
+  },
+  {
+    "id": 3,
+    "tag": "phu-kien-c",
+    "name": "Phụ kiện C",
+    "price": 300000,
+    "oldPrice": 305000,
+    "number": 0,
+    "image": "https://loremflickr.com/320/240/floor-3",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam corrupti, pariatur veniam placeat impedit iure eaque praesentium est? In odio ut ducimus reprehenderit earum iusto cumque possimus quidem nemo ipsam, voluptatibus facere perferendis nulla exercitationem, blanditiis deleniti ipsa, quasi dolorum rem ad delectus! Nostrum eligendi reiciendis voluptas repudiandae voluptate temporibus, sint ducimus cumque distinctio iusto vel autem sit id. Laborum expedita similique quidem recusandae itaque rerum ullam nostrum eaque minus, cum, velit repellat odio minima? Dolores architecto ullam accusantium corrupti, quisquam maxime praesentium blanditiis nobis officia nam ut nemo ad dignissimos et expedita magni repellendus, cupiditate aut dolorum possimus excepturi.",
+    "route": "/products/phu-kien-c",
+    "category": "phu-kien"
+  },
+  {
+    "id": 4,
+    "tag": "phu-kien-d",
+    "name": "Phụ kiện D",
+    "price": 400000,
+    "oldPrice": 440000,
+    "number": 15,
+    "image": "https://loremflickr.com/320/240/floor-4",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam corrupti, pariatur veniam placeat impedit iure eaque praesentium est? In odio ut ducimus reprehenderit earum iusto cumque possimus quidem nemo ipsam, voluptatibus facere perferendis nulla exercitationem, blanditiis deleniti ipsa, quasi dolorum rem ad delectus! Nostrum eligendi reiciendis voluptas repudiandae voluptate temporibus, sint ducimus cumque distinctio iusto vel autem sit id. Laborum expedita similique quidem recusandae itaque rerum ullam nostrum eaque minus, cum, velit repellat odio minima? Dolores architecto ullam accusantium corrupti, quisquam maxime praesentium blanditiis nobis officia nam ut nemo ad dignissimos et expedita magni repellendus, cupiditate aut dolorum possimus excepturi.",
+    "route": "/products/phu-kien-d",
+    "category": "phu-kien"
+  },
+  {
+    "id": 5,
+    "tag": "phu-kien-e",
+    "name": "Phụ kiện E",
+    "price": 500000,
+    "oldPrice": 570000,
+    "number": 73,
+    "image": "https://loremflickr.com/320/240/floor-5",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam corrupti, pariatur veniam placeat impedit iure eaque praesentium est? In odio ut ducimus reprehenderit earum iusto cumque possimus quidem nemo ipsam, voluptatibus facere perferendis nulla exercitationem, blanditiis deleniti ipsa, quasi dolorum rem ad delectus! Nostrum eligendi reiciendis voluptas repudiandae voluptate temporibus, sint ducimus cumque distinctio iusto vel autem sit id. Laborum expedita similique quidem recusandae itaque rerum ullam nostrum eaque minus, cum, velit repellat odio minima? Dolores architecto ullam accusantium corrupti, quisquam maxime praesentium blanditiis nobis officia nam ut nemo ad dignissimos et expedita magni repellendus, cupiditate aut dolorum possimus excepturi.",
+    "route": "/products/phu-kien-e",
+    "category": "phu-kien"
+  },
+  {
+    "id": 6,
+    "tag": "phu-kien-f",
+    "name": "Phụ kiện F",
+    "price": 600000,
+    "oldPrice": 660000,
+    "number": 25,
+    "image": "https://loremflickr.com/320/240/floor-6",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam corrupti, pariatur veniam placeat impedit iure eaque praesentium est? In odio ut ducimus reprehenderit earum iusto cumque possimus quidem nemo ipsam, voluptatibus facere perferendis nulla exercitationem, blanditiis deleniti ipsa, quasi dolorum rem ad delectus! Nostrum eligendi reiciendis voluptas repudiandae voluptate temporibus, sint ducimus cumque distinctio iusto vel autem sit id. Laborum expedita similique quidem recusandae itaque rerum ullam nostrum eaque minus, cum, velit repellat odio minima? Dolores architecto ullam accusantium corrupti, quisquam maxime praesentium blanditiis nobis officia nam ut nemo ad dignissimos et expedita magni repellendus, cupiditate aut dolorum possimus excepturi.",
+    "route": "/products/phu-kien-f",
+    "category": "phu-kien"
+  },
+  {
+    "id": 7,
+    "tag": "phu-kien-g",
+    "name": "Phụ kiện G",
+    "price": 700000,
+    "oldPrice": 750000,
+    "number": 30,
+    "image": "https://loremflickr.com/320/240/floor-7",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam corrupti, pariatur veniam placeat impedit iure eaque praesentium est? In odio ut ducimus reprehenderit earum iusto cumque possimus quidem nemo ipsam, voluptatibus facere perferendis nulla exercitationem, blanditiis deleniti ipsa, quasi dolorum rem ad delectus! Nostrum eligendi reiciendis voluptas repudiandae voluptate temporibus, sint ducimus cumque distinctio iusto vel autem sit id. Laborum expedita similique quidem recusandae itaque rerum ullam nostrum eaque minus, cum, velit repellat odio minima? Dolores architecto ullam accusantium corrupti, quisquam maxime praesentium blanditiis nobis officia nam ut nemo ad dignissimos et expedita magni repellendus, cupiditate aut dolorum possimus excepturi.",
+    "route": "/products/phu-kien-g",
+    "category": "phu-kien"
+  },
+  {
+    "id": 8,
+    "tag": "phu-kien-h",
+    "name": "Phụ kiện H",
+    "price": 800000,
+    "oldPrice": 900000,
+    "number": 6,
+    "image": "https://loremflickr.com/320/240/floor-8",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam corrupti, pariatur veniam placeat impedit iure eaque praesentium est? In odio ut ducimus reprehenderit earum iusto cumque possimus quidem nemo ipsam, voluptatibus facere perferendis nulla exercitationem, blanditiis deleniti ipsa, quasi dolorum rem ad delectus! Nostrum eligendi reiciendis voluptas repudiandae voluptate temporibus, sint ducimus cumque distinctio iusto vel autem sit id. Laborum expedita similique quidem recusandae itaque rerum ullam nostrum eaque minus, cum, velit repellat odio minima? Dolores architecto ullam accusantium corrupti, quisquam maxime praesentium blanditiis nobis officia nam ut nemo ad dignissimos et expedita magni repellendus, cupiditate aut dolorum possimus excepturi.",
+    "route": "/products/phu-kien-h",
+    "category": "phu-kien"
+  }
+]

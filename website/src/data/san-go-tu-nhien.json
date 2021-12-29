@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "tag": "san-go-tu-nhien-a",
+    "name": "Sàn gỗ tự nhiên A",
+    "price": 1000000,
+    "oldPrice": 1100000,
+    "number": 17,
+    "image": "https://loremflickr.com/320/240/wood",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, unde sequi vel reiciendis numquam aperiam pariatur minus minima. Dicta, cumque.",
+    "route": "/products/san-go-tu-nhien-a",
+    "category": "san-go-tu-nhien"
+  },
+  {
+    "id": 2,
+    "tag": "san-go-tu-nhien-b",
+    "name": "Sàn gỗ tự nhiên B",
+    "price": 2000000,
+    "oldPrice": 1100000,
+    "number": 17,
+    "image": "https://loremflickr.com/320/240/food",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, unde sequi vel reiciendis numquam aperiam pariatur minus minima. Dicta, cumque.",
+    "route": "/products/san-go-tu-nhien-b",
+    "category": "san-go-tu-nhien"
+  },
+  {
+    "id": 3,
+    "tag": "san-go-tu-nhien-c",
+    "name": "Sàn gỗ tự nhiên C",
+    "price": 3000000,
+    "oldPrice": 1100000,
+    "number": 17,
+    "image": "https://loremflickr.com/320/240/dentis",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, unde sequi vel reiciendis numquam aperiam pariatur minus minima. Dicta, cumque.",
+    "route": "/products/san-go-tu-nhien-c",
+    "category": "san-go-tu-nhien"
+  },
+  {
+    "id": 4,
+    "tag": "san-go-tu-nhien-d",
+    "name": "Sàn gỗ tự nhiên D",
+    "price": 4000000,
+    "oldPrice": 1100000,
+    "number": 17,
+    "image": "https://loremflickr.com/320/240/doctor",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, unde sequi vel reiciendis numquam aperiam pariatur minus minima. Dicta, cumque.",
+    "route": "/products/san-go-tu-nhien-d",
+    "category": "san-go-tu-nhien"
+  },
+  {
+    "id": 5,
+    "tag": "san-go-tu-nhien-e",
+    "name": "Sàn gỗ tự nhiên E",
+    "price": 5000000,
+    "oldPrice": 1100000,
+    "number": 17,
+    "image": "https://loremflickr.com/320/240/book",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, unde sequi vel reiciendis numquam aperiam pariatur minus minima. Dicta, cumque.",
+    "route": "/products/san-go-tu-nhien-e",
+    "category": "san-go-tu-nhien"
+  },
+  {
+    "id": 6,
+    "tag": "san-go-tu-nhien-f",
+    "name": "Sàn gỗ tự nhiên F",
+    "price": 5000000,
+    "oldPrice": 1100000,
+    "number": 17,
+    "image": "https://loremflickr.com/320/240/wood",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, unde sequi vel reiciendis numquam aperiam pariatur minus minima. Dicta, cumque.",
+    "route": "/products/san-go-tu-nhien-e",
+    "category": "san-go-tu-nhien"
+  },
+  {
+    "id": 7,
+    "tag": "san-go-tu-nhien-f",
+    "name": "Sàn gỗ tự nhiên F",
+    "price": 5000000,
+    "oldPrice": 1100000,
+    "number": 17,
+    "image": "https://loremflickr.com/320/240/wood",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, unde sequi vel reiciendis numquam aperiam pariatur minus minima. Dicta, cumque.",
+    "route": "/products/san-go-tu-nhien-e",
+    "category": "san-go-tu-nhien"
+  }
+]

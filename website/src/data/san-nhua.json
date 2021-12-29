@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "tag": "san-nhua-a",
+    "name": "Sàn nhựa A",
+    "price": 250000,
+    "oldPrice": 270000,
+    "number": 5,
+    "image": "https://loremflickr.com/320/240/mechanical_wood-1",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam corrupti, pariatur veniam placeat impedit iure eaque praesentium est? In odio ut ducimus reprehenderit earum iusto cumque possimus quidem nemo ipsam, voluptatibus facere perferendis nulla exercitationem, blanditiis deleniti ipsa, quasi dolorum rem ad delectus! Nostrum eligendi reiciendis voluptas repudiandae voluptate temporibus, sint ducimus cumque distinctio iusto vel autem sit id. Laborum expedita similique quidem recusandae itaque rerum ullam nostrum eaque minus, cum, velit repellat odio minima? Dolores architecto ullam accusantium corrupti, quisquam maxime praesentium blanditiis nobis officia nam ut nemo ad dignissimos et expedita magni repellendus, cupiditate aut dolorum possimus excepturi.",
+    "route": "/products/san-nhua-a",
+    "category": "san-nhua"
+  },
+  {
+    "id": 2,
+    "tag": "san-nhua-b",
+    "name": "Sàn nhựa B",
+    "price": 300000,
+    "oldPrice": 350000,
+    "number": 0,
+    "image": "https://loremflickr.com/320/240/mechanical-2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam corrupti, pariatur veniam placeat impedit iure eaque praesentium est? In odio ut ducimus reprehenderit earum iusto cumque possimus quidem nemo ipsam, voluptatibus facere perferendis nulla exercitationem, blanditiis deleniti ipsa, quasi dolorum rem ad delectus! Nostrum eligendi reiciendis voluptas repudiandae voluptate temporibus, sint ducimus cumque distinctio iusto vel autem sit id. Laborum expedita similique quidem recusandae itaque rerum ullam nostrum eaque minus, cum, velit repellat odio minima? Dolores architecto ullam accusantium corrupti, quisquam maxime praesentium blanditiis nobis officia nam ut nemo ad dignissimos et expedita magni repellendus, cupiditate aut dolorum possimus excepturi.",
+    "route": "/products/san-nhua-b",
+    "category": "san-nhua"
+  }
+]

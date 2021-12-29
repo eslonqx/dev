@@ -1,0 +1,38 @@
+.header {
+  box-shadow: 0 2px 8px #f0f1f2;
+}
+
+.ant-layout-header {
+  max-width: 1440px;
+  margin: auto;
+  background: none;
+}
+
+.ant-menu-horizontal {
+  border-bottom: none;
+}
+
+.ant-menu-overflow {
+  justify-content: flex-end;
+}
+
+.logo {
+  float: left;
+  width: 190px;
+  height: 31px;
+  margin: 16px 21px 16px 32px;
+  background-image: url("https://loremflickr.com/190/31/logo");
+}
+
+.search-box {
+  float: left;
+  height: 31px;
+  min-width: 355px;
+  margin: 16px 24px 16px 24px;
+}
+
+.divider {
+  float: left;
+  height: 32px;
+  margin: 16px 0;
+}
